@@ -1,0 +1,11 @@
+/CreateDataset/Videos/
+/CreateDataset/Dataset.zip
+/keras_env/
+/CreateDataset/Dataset/
+/CreateDataset/data/
+/CreateDataset/utils/*
+/CreateDataset/MyInferenceGraph/*
+*.csv
+*.h5
+#*
+__pycache__*
