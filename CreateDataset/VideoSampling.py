@@ -17,7 +17,7 @@ from PIL import Image
 
 import cv2
 
-NAME = "pascal"
+NAME = "arturito"
 cap = cv2.VideoCapture("Videos/"+NAME.lower()+".avi")
 count = 0
 face = None
