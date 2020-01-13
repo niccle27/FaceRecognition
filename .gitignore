@@ -10,4 +10,4 @@
 #*
 __pycache__*
 /dist/object_detection-0.1-py2.7.egg
-/object_detection.egg-info/PKG-INFO
+/object_detection.egg-info/*
