@@ -19,7 +19,8 @@ class_dic = {"Berengere": 0,
              "Clement": 1,
              "Edwin": 2,
              "Pascal": 3,
-             "Ronald": 4}
+             "Ronald": 4,
+             "Arthur": 5}
 
 class_dic_inverted = dict(map(reversed, class_dic.items()))
 
